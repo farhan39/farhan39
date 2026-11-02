@@ -1,10 +1,10 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=190&section=header&text=Farhan%20Bukhari&fontSize=42&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20Automation%20Engineer&descAlignY=58&descSize=17" width="100%" />
+<h1>Farhan Bukhari</h1>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI-powered+products;Designing+automation+that+scales;Full-stack+development+from+idea+to+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;AI+%26+Automation+Engineer;Building+AI-powered+products;Designing+automation+that+scales" alt="Typing SVG" />
 </a>
 
 <p>
@@ -38,24 +38,22 @@ I work across the stack, from designing backend architectures and APIs to buildi
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,dart,react,nextjs,flutter,nodejs&perline=8&height=30" height="30" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,dart,react,nextjs,flutter,nodejs&perline=8" height="38" />
 
 **Backend, Databases & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,express,postgres,supabase,mongodb,firebase,docker&perline=8&height=30" height="30" />
-
-**Cloud & Development Tools**
-
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,cloudflare,git,github,linux&perline=8&height=30" height="30" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,nestjs,express&perline=6" height="38" />
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql,redis,firebase,docker,aws,gcp,azure,cloudflare,git,github&perline=8" height="38" />
 
 **AI & Automation**
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" height="22" />
-<img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" height="22" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" height="24" />
+<img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" height="24" />
 
 </div>
 
@@ -84,13 +82,13 @@ An AI-powered SEO automation platform built for healthcare practices and agencie
 
 **Stack:** Next.js, Supabase, n8n, Claude API, Airtable, Cloudflare Workers
 
-<div align="center">
+<p align="center">
 <a href="https://youtu.be/dWVfgCTUocU">
 <img src="https://img.youtube.com/vi/dWVfgCTUocU/hqdefault.jpg" width="100%" alt="Nova SEO Automation Demo" />
 </a>
 <br/><br/>
 <a href="https://youtu.be/dWVfgCTUocU">▶ Watch Demo</a>
-</div>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -110,13 +108,13 @@ A centralized data pipeline consolidating advertising data from eight platforms 
 
 **Stack:** Python, GCP, BigQuery, Cloud Run, Cloud Build
 
-<div align="center">
+<p align="center">
 <a href="https://youtu.be/6adgVi2_SE4">
 <img src="https://img.youtube.com/vi/6adgVi2_SE4/hqdefault.jpg" width="100%" alt="ETL Pipeline Demo" />
 </a>
 <br/><br/>
 <a href="https://youtu.be/6adgVi2_SE4">▶ Watch Demo</a>
-</div>
+</p>
 
 </td>
 </tr>
@@ -139,13 +137,13 @@ A multi-tenant CRM dashboard designed for local service businesses.
 
 **Stack:** Next.js, Supabase, OpenAI, GoHighLevel
 
-<div align="center">
+<p align="center">
 <a href="https://youtu.be/tVmd_2NlV6I">
 <img src="https://img.youtube.com/vi/tVmd_2NlV6I/hqdefault.jpg" width="100%" alt="Sales Command Center Demo" />
 </a>
 <br/><br/>
 <a href="https://youtu.be/tVmd_2NlV6I">▶ Watch Demo</a>
-</div>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -166,13 +164,13 @@ An AI support assistant that helps customer service teams generate context-aware
 
 **Stack:** React, TypeScript, Python, FastAPI, PostgreSQL, pgvector, Shopify GraphQL, Docker
 
-<div align="center">
+<p align="center">
 <a href="https://youtu.be/UdCMCIQ2cmc">
 <img src="https://img.youtube.com/vi/UdCMCIQ2cmc/hqdefault.jpg" width="100%" alt="ChatQre Demo" />
 </a>
 <br/><br/>
 <a href="https://youtu.be/UdCMCIQ2cmc">▶ Watch Demo</a>
-</div>
+</p>
 
 </td>
 </tr>
@@ -196,13 +194,13 @@ An on-premises AI document assistant designed to keep enterprise data within a p
 
 **Stack:** Next.js, FastAPI, Ollama, Qdrant, PostgreSQL, Docker
 
-<div align="center">
+<p align="center">
 <a href="https://youtu.be/-0rHHK6GHSE">
 <img src="https://img.youtube.com/vi/-0rHHK6GHSE/hqdefault.jpg" width="100%" alt="Local Enterprise RAG Demo" />
 </a>
 <br/><br/>
 <a href="https://youtu.be/-0rHHK6GHSE">▶ Watch Demo</a>
-</div>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -222,13 +220,13 @@ An n8n-based workflow system for automating client onboarding and recurring prog
 
 **Stack:** n8n, Slack, Gmail, Google Drive, Gemini, Monday.com
 
-<div align="center">
+<p align="center">
 <a href="https://youtu.be/f8LkF5D-JYY">
 <img src="https://img.youtube.com/vi/f8LkF5D-JYY/hqdefault.jpg" width="100%" alt="Client Onboarding Automation Demo" />
 </a>
 <br/><br/>
 <a href="https://youtu.be/f8LkF5D-JYY">▶ Watch Demo</a>
-</div>
+</p>
 
 </td>
 </tr>
@@ -254,15 +252,15 @@ A Flutter application focused on endometriosis tracking and personal health insi
 
 **Role:** Full-Stack Flutter Developer
 
-**Stack:** Flutter, backend integrations, Amplitude, AppsFlyer
+**Stack:** Flutter, Amplitude, AppsFlyer
 
-<div align="center">
+<p align="center">
 <a href="https://youtu.be/L_zR9SpQg4g">
 <img src="https://img.youtube.com/vi/L_zR9SpQg4g/hqdefault.jpg" width="100%" alt="Ekvi App Demo" />
 </a>
 <br/><br/>
 <a href="https://youtu.be/L_zR9SpQg4g">▶ Watch Demo</a>
-</div>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -282,13 +280,13 @@ A mobile application for employee rewards, bonuses, and payout management.
 
 **Stack:** Flutter, Firebase, Node.js, MongoDB, Plaid
 
-<div align="center">
+<p align="center">
 <a href="https://youtu.be/8ix5im_BvVM">
 <img src="https://img.youtube.com/vi/8ix5im_BvVM/hqdefault.jpg" width="100%" alt="Retainr Employee App Demo" />
 </a>
 <br/><br/>
 <a href="https://youtu.be/8ix5im_BvVM">▶ Watch Demo</a>
-</div>
+</p>
 
 </td>
 </tr>
@@ -308,15 +306,15 @@ A mobile application supporting personal growth, journaling, and community engag
 
 **Role:** Full-Stack Mobile Developer
 
-**Stack:** Flutter, Node.js, MongoDB, Socket.IO, AI integrations
+**Stack:** Flutter, Node.js, MongoDB, Socket.IO
 
-<div align="center">
+<p align="center">
 <a href="https://youtu.be/s8N7wuBEeW8">
 <img src="https://img.youtube.com/vi/s8N7wuBEeW8/hqdefault.jpg" width="100%" alt="Ascensus App Demo" />
 </a>
 <br/><br/>
 <a href="https://youtu.be/s8N7wuBEeW8">▶ Watch Demo</a>
-</div>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -334,9 +332,7 @@ Administrative portals for managing business operations and employee-related wor
 
 **Role:** Full-Stack Web Developer
 
-**Stack:** Web application development, backend integrations, database management
-
-<div align="center">
+<p align="center">
 <a href="https://youtu.be/HJG-_9rdNGI">
 <img src="https://img.youtube.com/vi/HJG-_9rdNGI/hqdefault.jpg" width="100%" alt="Retainr Business Admin Demo" />
 </a>
@@ -348,7 +344,7 @@ Administrative portals for managing business operations and employee-related wor
 </a>
 <br/><br/>
 <a href="https://youtu.be/npR7AYUCFeM">▶ Super Admin Demo</a>
-</div>
+</p>
 
 </td>
 </tr>
@@ -376,13 +372,13 @@ An automated property evaluation workflow that streamlines task creation and tea
 
 **Stack:** Make.com, Google Gemini, ClickUp, Slack
 
-<div align="center">
+<p align="center">
 <a href="https://youtu.be/EL8AnTuPciI">
 <img src="https://img.youtube.com/vi/EL8AnTuPciI/hqdefault.jpg" width="100%" alt="Property Evaluation Automation Demo" />
 </a>
 <br/><br/>
 <a href="https://youtu.be/EL8AnTuPciI">▶ Watch Demo</a>
-</div>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -405,12 +401,3 @@ An administrative platform for managing parent accounts, activity trends, and cl
 </tr>
 </table>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=footer&animation=fadeIn" width="100%" />
-
-<p><i>Building useful products, solving real problems, and making systems work better.</i></p>
-
-</div>
