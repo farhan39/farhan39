@@ -1,331 +1,319 @@
-# Farhan Bukhari
-### Full-Stack Developer | AI Engineer | Automation Engineer
+<!-- ===================== HEADER ===================== -->
 
-I build scalable products for both B2C and B2B and startups including but not limited to web/mobile apps, AI-powered systems, and intelligent automation workflows. My work spans full-stack development, LLM integrations, RAG systems, multi-tenant SaaS platforms, cloud infrastructure, and business process automations.
+<div align="center">
+
+# 👋 Hi, I'm Farhan Bukhari
+
+### Full-Stack Developer · AI Engineer · Automation Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+AI-Powered+Applications;Engineering+Scalable+SaaS+Platforms;Developing+RAG+%26+Agentic+AI+Systems;Automating+Complex+Business+Workflows" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://linkedin.com/in/farhan-bukhari-561a51259">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://medium.com/@fbukhari557">
+  <img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/farhan-bukhari">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+<a href="https://instagram.com/farhanbukhari557">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=farhan39&style=flat-square&color=blue" alt="Profile Views" />
+
+</div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-- 🔭 Currently building AI-powered SaaS platforms, intelligent agents, and automation systems.
-- 👯 Open to collaborating on AI engineering, full-stack applications, and SaaS products.
-- 🌱 Exploring advanced agentic AI, LLM orchestration, and scalable system architecture.
-- 💬 Ask me about Python, FastAPI, Next.js, React, RAG, LLMs, multi-tenant systems, and workflow automation.
+I'm a Full-Stack Developer and AI Engineer focused on building production-ready software, intelligent automation systems, and scalable SaaS applications.
+
+I work across the entire development lifecycle, from designing backend architecture and integrating AI models to building user-facing applications and deploying cloud-based systems.
+
+- 🔭 Working on **AI-powered SaaS platforms, intelligent agents, and automation systems**.
+- 👯 Interested in collaborating on **AI engineering, full-stack applications, and RAG systems**.
+- 🌱 Exploring **agentic AI, LLM orchestration, and scalable system architecture**.
+- 💬 Ask me about **Python, FastAPI, Next.js, React, RAG, LLMs, and workflow automation**.
 - ⚡ I enjoy turning complicated manual processes into intelligent, automated systems.
 
-## Connect
+---
 
-[LinkedIn](https://linkedin.com/in/farhan-bukhari-561a51259) · [Medium](https://medium.com/@fbukhari557) · [Stack Overflow](https://stackoverflow.com/users/farhan-bukhari) · [Instagram](https://instagram.com/farhanbukhari557)
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,ts,dart,html,css" />
+</p>
+
+### Frontend Development
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter" />
+</p>
+
+### Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,django,flask,nodejs,nestjs,express" />
+</p>
+
+### AI & Automation
+
+<p>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql,redis,firebase,docker,aws,gcp,azure,cloudflare,git,github" />
+</p>
+
+**Additional Tools:** Qdrant, pgvector, BigQuery, Google Cloud Run, Cloud Build, Shopify GraphQL, REST APIs, GitHub Actions.
 
 ---
 
-## Technical Skills
-
-**Languages:** Python, JavaScript, TypeScript, Dart, SQL
-
-**Frontend:** React, Next.js, Flutter, Tailwind CSS, HTML, CSS
-
-**Backend:** FastAPI, Django, Flask, Node.js, Express.js, NestJS
-
-**AI & Automation:** LLMs, RAG, LangChain, LangGraph, OpenAI, Claude, Ollama, n8n, Make.com, AI Agents
-
-**Databases:** PostgreSQL, Supabase, MongoDB, MySQL, Redis, Qdrant, Firebase, SQLite
-
-**Cloud & DevOps:** AWS, Google Cloud, Azure, Docker, Cloud Run, Cloudflare, GitHub Actions, CI/CD
-
-**Integrations:** REST APIs, Shopify GraphQL, Gmail, Slack, Twilio, GoHighLevel, WordPress
-
----
-
-# Featured Projects
-
-A selection of applications, automation systems, and AI-powered products I've worked on.
-
-## Project Navigation
-
-| # | Project | Category |
-|---|---|---|
-| 01 | [Nova – SEO Automation Platform](#1-nova--multi-tenant-seo-automation-platform) | AI SaaS |
-| 02 | [Ad Data ETL Pipeline](#2-multi-platform-ad-data-etl-pipeline) | Data Engineering |
-| 03 | [Sales Command Center](#3-sales-command-center) | CRM / AI Automation |
-| 04 | [Shopify AI Support Copilot / ChatQre](#4-shopify-ai-support-copilot--chatqre) | AI / RAG |
-| 05 | [Enterprise RAG System](#5-local-enterprise-rag-system) | AI / RAG |
-| 06 | [Client Onboarding Automation](#6-client-onboarding--reporting-automation) | Workflow Automation |
-| 07 | [Retainr Admin Portals](#7-retainr--business-and-super-admin-portals) | Web Application |
-| 08 | [Property Evaluation Automation](#8-property-evaluation-automation) | AI Automation |
-| 09 | [Ekvi – Women's Health App](#9-ekvi--womens-health-tracking-app) | Mobile Application |
-| 10 | [Everafter Admin Portal](#10-everafter--admin-portal) | Web Application |
-| 11 | [Retainr Employee App](#11-retainr--employee-retainment-app) | Mobile Application |
-| 12 | [Ascensus](#12-ascensus--personal-development-app) | Mobile / AI |
-
----
-
-## 1. Nova – Multi-Tenant SEO Automation Platform
-
-**Role:** Full-Stack Developer & Automation Engineer
-
-A multi-tenant SEO automation platform built for healthcare practices and agencies. It automates SEO audits, AI-assisted content creation, and publishing across multiple website platforms.
-
-**Key Features**
-- Automated SEO audits and content generation.
-- 47 scheduled n8n workflows.
-- AI-generated content using brand-specific voice and context.
-- Publishing integrations for WordPress, Wix, Ghost, and Squarespace.
-- Human approval workflows before publishing.
-- Tenant-isolated data and branded agency subdomains.
-
-**Tech Stack:** Next.js, Supabase, n8n, Claude API, Airtable, Cloudflare Workers.
-
-**Demo Video**
-
-[![Watch Nova SEO Demo](https://img.youtube.com/vi/dWVfgCTUocU/hqdefault.jpg)](https://youtu.be/dWVfgCTUocU)
-
----
-
-## 2. Multi-Platform Ad Data ETL Pipeline
-
-**Role:** Data Engineer & Cloud Automation Engineer
-
-A production ETL pipeline that consolidates advertising performance data from eight platforms into Google BigQuery for centralized reporting and analysis.
-
-**Key Features**
-- Separate Python extractors for advertising platforms.
-- Automated daily data extraction and loading.
-- Containerized jobs deployed through Google Cloud Run.
-- Cloud Build deployment pipelines triggered by Git tags.
-- Timezone-aware scheduling through Cloud Scheduler.
-- Idempotent data loading and secure credentials management.
-
-**Integrations:** Google Ads, Meta Ads, LinkedIn, Naver, Yahoo Japan, Quantcast, StackAdapt.
-
-**Tech Stack:** Python, Google Cloud Run, BigQuery, Cloud Build, Cloud Scheduler, Secret Manager, Docker.
-
-**Demo Video**
-
-[![Watch ETL Pipeline Demo](https://img.youtube.com/vi/6adgVi2_SE4/hqdefault.jpg)](https://youtu.be/6adgVi2_SE4)
-
----
-
-## 3. Sales Command Center
-
-**Role:** Full-Stack Developer
-
-A multi-tenant CRM dashboard designed for local service businesses. It brings leads, conversations, appointments, and AI-assisted follow-ups into one centralized interface.
-
-**Key Features**
-- Live lead and conversation synchronization through GoHighLevel.
-- Lead classification into hot, warm, and cold categories.
-- AI identification of stalled leads and missed appointments.
-- Suggested next actions and follow-up workflows.
-- Automated missed-call text-back and lead qualification.
-- Separate CRM environments for individual clients.
-
-**Tech Stack:** Next.js, Supabase, OpenAI API, GoHighLevel API.
-
-**Demo Video**
-
-[![Watch Sales Command Center Demo](https://img.youtube.com/vi/tVmd_2NlV6I/hqdefault.jpg)](https://youtu.be/tVmd_2NlV6I)
-
----
-
-## 4. Shopify AI Support Copilot / ChatQre
-
-**Role:** Full-Stack Web Developer
-
-An AI-powered customer support assistant that helps support teams generate contextual email replies using company policies, Shopify order information, and historical feedback.
-
-**Key Features**
-- Chrome Extension built with Manifest V3.
-- Context-aware response generation.
-- Retrieval-augmented generation using company knowledge.
-- Shopify order data integration.
-- Gmail workflow integration.
-- JWT authentication and human-in-the-loop feedback.
-- Response regeneration and editing.
-
-**Tech Stack:** React, TypeScript, Chrome Extension MV3, Python, FastAPI, PostgreSQL, pgvector, Shopify GraphQL, Docker.
-
-**Demo Video**
-
-[![Watch ChatQre Demo](https://img.youtube.com/vi/UdCMCIQ2cmc/hqdefault.jpg)](https://youtu.be/UdCMCIQ2cmc)
-
----
-
-## 5. Local Enterprise RAG System
-
-**Role:** Full-Stack Web Developer
-
-An on-premises AI document assistant that allows users to search and interact with internal documents through a locally hosted language model.
-
-**Key Features**
-- Document ingestion for PDF, DOCX, XLSX, TXT, HTML, and images.
-- OCR-based document processing.
-- Multilingual embedding and semantic retrieval.
-- Vector search using Qdrant.
-- Streaming AI responses with source citations.
-- Local model inference through Ollama.
-- Docker-based deployment for private LAN environments.
-
-**Tech Stack:** Next.js, FastAPI, Ollama, Qdrant, PostgreSQL, Docker Compose, OCR, Embeddings.
-
-**Demo Video**
-
-[![Watch Enterprise RAG Demo](https://img.youtube.com/vi/-0rHHK6GHSE/hqdefault.jpg)](https://youtu.be/-0rHHK6GHSE)
-
----
-
-## 6. Client Onboarding & Reporting Automation
-
-**Role:** Automation Engineer
-
-An automated client onboarding and reporting workflow that connects communication, project management, document generation, and AI services.
-
-**Key Features**
-- Automated onboarding emails.
-- Weekly client progress reports.
-- AI-assisted report and template generation.
-- Google Drive document creation.
-- Automated Slack channel setup.
-- Monday.com project management integration.
-
-**Tech Stack:** n8n, Slack, Gmail, Google Drive, Gemini API, Monday.com.
-
----
-
-## 7. Retainr – Business and Super Admin Portals
-
-**Role:** Full-Stack Web Developer
-
-Administrative portals for managing employees, performance, remuneration, expenses, approvals, bonuses, and business payouts.
-
-**Key Features**
-- Employee management and performance tracking.
-- Remuneration and expense visualization.
-- Approval workflows and bonus management.
-- Secure bank account integration.
-- Centralized payout administration.
-
-**Tech Stack:** Web Application, Backend APIs, Database Integrations.
-
-**Demo Videos**
-
-**Super Admin Portal**
-
-[![Watch Retainr Super Admin Demo](https://img.youtube.com/vi/npR7AYUCFeM/hqdefault.jpg)](https://youtu.be/npR7AYUCFeM)
-
-**Business Admin Portal**
-
-[![Watch Retainr Business Admin Demo](https://img.youtube.com/vi/HJG-_9rdNGI/hqdefault.jpg)](https://youtu.be/HJG-_9rdNGI)
-
----
-
-## 8. Property Evaluation Automation
-
-**Role:** Automation Engineer
-
-An automated property evaluation workflow that uses AI and connected business tools to streamline property processing and internal team communication.
-
-**Key Features**
-- AI-generated personalized emails.
-- Automated task creation in ClickUp.
-- Contextual Slack notifications.
-- Automated information processing and handoffs.
-
-**Tech Stack:** Make.com, Google Gemini, ClickUp, Slack.
-
-**Demo Video**
-
-[![Watch Property Valuation Demo](https://img.youtube.com/vi/EL8AnTuPciI/hqdefault.jpg)](https://youtu.be/EL8AnTuPciI)
-
----
-
-## 9. Ekvi – Women's Health Tracking App
-
-**Role:** Full-Stack Flutter Developer
-
-A mobile application focused on endometriosis tracking, helping users record symptoms, monitor cycles, and understand their health patterns through visual insights.
-
-**Key Features**
-- Symptom and cycle tracking.
-- Pain, bowel, and wellness tracking.
-- Interactive health dashboards.
-- Educational articles and guided courses.
-- User engagement and analytics integrations.
-
-**Tech Stack:** Flutter, Mobile APIs, Amplitude, AppsFlyer.
-
-**Demo Video**
-
-[![Watch Ekvi Demo](https://img.youtube.com/vi/L_zR9SpQg4g/hqdefault.jpg)](https://youtu.be/L_zR9SpQg4g)
-
----
-
-## 10. Everafter – Admin Portal
-
-**Role:** Full-Stack Web Developer
+# 🚀 Project Portfolio
+
+A collection of production applications, AI systems, SaaS platforms, and automation solutions I've worked on.
+
+<details open>
+<summary><b>⭐ Featured Projects</b></summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+<h3>01. Nova – SEO Automation Platform</h3>
+<a href="https://youtu.be/dWVfgCTUocU">
+<img src="https://img.youtube.com/vi/dWVfgCTUocU/hqdefault.jpg" width="100%" alt="Nova SEO Demo"/>
+</a>
+<p>A multi-tenant SEO automation platform for healthcare practices and agencies. Automates SEO audits, AI content generation, and publishing across multiple CMS platforms.</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white"/>
+</p>
+<a href="https://youtu.be/dWVfgCTUocU">▶ Watch Demo</a>
+</td>
+<td width="50%">
+<h3>02. Multi-Platform Ad Data ETL Pipeline</h3>
+<a href="https://youtu.be/6adgVi2_SE4">
+<img src="https://img.youtube.com/vi/6adgVi2_SE4/hqdefault.jpg" width="100%" alt="ETL Pipeline Demo"/>
+</a>
+<p>A production ETL pipeline consolidating advertising data from eight platforms into BigQuery with automated extraction, scheduling, and deployment.</p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloud%20Run-4285F4?logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+</p>
+<a href="https://youtu.be/6adgVi2_SE4">▶ Watch Demo</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3>03. Sales Command Center</h3>
+<a href="https://youtu.be/tVmd_2NlV6I">
+<img src="https://img.youtube.com/vi/tVmd_2NlV6I/hqdefault.jpg" width="100%" alt="Sales Command Center Demo"/>
+</a>
+<p>A multi-tenant CRM dashboard with AI-assisted lead classification, conversation tracking, appointment monitoring, and automated follow-ups.</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"/>
+</p>
+<a href="https://youtu.be/tVmd_2NlV6I">▶ Watch Demo</a>
+</td>
+<td width="50%">
+<h3>04. ChatQre – Shopify AI Support Copilot</h3>
+<a href="https://youtu.be/UdCMCIQ2cmc">
+<img src="https://img.youtube.com/vi/UdCMCIQ2cmc/hqdefault.jpg" width="100%" alt="ChatQre Demo"/>
+</a>
+<p>An AI customer support assistant that generates contextual email replies using company knowledge, Shopify order information, and retrieval-augmented generation.</p>
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white"/>
+</p>
+<a href="https://youtu.be/UdCMCIQ2cmc">▶ Watch Demo</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3>05. Local Enterprise RAG System</h3>
+<a href="https://youtu.be/-0rHHK6GHSE">
+<img src="https://img.youtube.com/vi/-0rHHK6GHSE/hqdefault.jpg" width="100%" alt="Enterprise RAG Demo"/>
+</a>
+<p>An on-premises AI document assistant with OCR, multilingual semantic retrieval, local LLM inference, and streaming responses with citations.</p>
+<p>
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?logo=qdrant&logoColor=white"/>
+</p>
+<a href="https://youtu.be/-0rHHK6GHSE">▶ Watch Demo</a>
+</td>
+<td width="50%">
+<h3>06. Client Onboarding & Reporting Automation</h3>
+<p>An automated workflow for client onboarding, progress reporting, document generation, and communication across business tools.</p>
+<p>
+<img src="https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Make.com-6D00CC?logo=make&logoColor=white"/>
+</p>
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>📱 Mobile Applications</b></summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+<h3>07. Ekvi – Women's Health App</h3>
+<a href="https://youtu.be/L_zR9SpQg4g">
+<img src="https://img.youtube.com/vi/L_zR9SpQg4g/hqdefault.jpg" width="100%" alt="Ekvi Demo"/>
+</a>
+<p>A mobile health application focused on endometriosis tracking, symptom monitoring, cycle tracking, and interactive health insights.</p>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amplitude-005AF0?logo=amplitude&logoColor=white"/>
+</p>
+<a href="https://youtu.be/L_zR9SpQg4g">▶ Watch Demo</a>
+</td>
+<td width="50%">
+<h3>08. Retainr – Employee App</h3>
+<a href="https://youtu.be/8ix5im_BvVM">
+<img src="https://img.youtube.com/vi/8ix5im_BvVM/hqdefault.jpg" width="100%" alt="Retainr Employee App Demo"/>
+</a>
+<p>A mobile employee retainment application for tracking balances, bonuses, scheduled rewards, and withdrawals.</p>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Plaid-111111?logo=plaid&logoColor=white"/>
+</p>
+<a href="https://youtu.be/8ix5im_BvVM">▶ Watch Demo</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>09. Ascensus – Personal Development App</h3>
+<a href="https://youtu.be/s8N7wuBEeW8">
+<img src="https://img.youtube.com/vi/s8N7wuBEeW8/hqdefault.jpg" width="100%" alt="Ascensus Demo"/>
+</a>
+<p>A personal development and wellness application featuring AI-assisted goals, journaling, community channels, and real-time messaging.</p>
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white"/>
+</p>
+<a href="https://youtu.be/s8N7wuBEeW8">▶ Watch Demo</a>
+</td>
+<td width="50%">
+<h3>10. Retainr – Business Admin Portal</h3>
+<a href="https://youtu.be/HJG-_9rdNGI">
+<img src="https://img.youtube.com/vi/HJG-_9rdNGI/hqdefault.jpg" width="100%" alt="Retainr Business Admin Demo"/>
+</a>
+<p>An administrative portal for employee management, remuneration, expenses, approvals, bonuses, and business payouts.</p>
+<p>
+<img src="https://img.shields.io/badge/Web%20Application-333333?logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Integrations-005571?logo=fastapi&logoColor=white"/>
+</p>
+<a href="https://youtu.be/HJG-_9rdNGI">▶ Watch Business Admin Demo</a>
+<br/><br/>
+<a href="https://youtu.be/npR7AYUCFeM">▶ Watch Super Admin Demo</a>
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>⚙️ Other Web Applications & Automation</b></summary>
+
+<br/>
+
+### 11. Property Evaluation Automation
+
+<a href="https://youtu.be/EL8AnTuPciI">
+<img src="https://img.youtube.com/vi/EL8AnTuPciI/hqdefault.jpg" width="420" alt="Property Valuation Automation Demo"/>
+</a>
+
+An AI-powered property evaluation workflow that automates personalized emails, task creation, and team notifications.
+
+**Stack:** Make.com · Google Gemini · ClickUp · Slack
+
+[▶ Watch Demo](https://youtu.be/EL8AnTuPciI)
+
+### 12. Everafter – Admin Portal
 
 An administrative portal for managing parent accounts, monitoring activity, and handling claim requests through a trusted-person verification process.
 
-**Key Features**
-- Parent account management.
-- Activity monitoring and trend visualization.
-- Claim request management.
-- Two-person verification workflow.
-- Centralized administrative controls.
+**Stack:** React · Node.js · MongoDB
 
-**Tech Stack:** React, Node.js, MongoDB.
+</details>
 
 ---
 
-## 11. Retainr – Employee Retainment App
+## 📊 GitHub Statistics
 
-**Role:** Full-Stack Flutter Developer
+<div align="center">
 
-A mobile employee retainment application that provides employees with visibility into their balances, bonuses, and withdrawal options.
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=farhan39&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 
-**Key Features**
-- Employee balance and bonus tracking.
-- Withdrawal and payout workflows.
-- Scheduled reward distributions.
-- Google OAuth authentication.
-- Plaid payment integration.
-- Administrative withdrawal validation.
+<img height="165" src="https://streak-stats.demolab.com/?user=farhan39&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
-**Tech Stack:** Flutter, Firebase, Node.js, MongoDB, Plaid, Google OAuth.
+<img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=farhan39&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
-**Demo Video**
-
-[![Watch Retainr Employee App Demo](https://img.youtube.com/vi/8ix5im_BvVM/hqdefault.jpg)](https://youtu.be/8ix5im_BvVM)
+</div>
 
 ---
 
-## 12. Ascensus – Personal Development App
+## 🏆 GitHub Achievements
 
-**Role:** Full-Stack Mobile Developer
+<div align="center">
 
-A personal development and wellness mobile application focused on goal setting, journaling, and community engagement.
+<img src="https://github-profile-trophy.vercel.app/?username=farhan39&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 
-**Key Features**
-- AI-assisted personal goals.
-- Journaling and self-reflection.
-- Community channels and communication.
-- Real-time messaging.
-- Personal development and wellness features.
-
-**Tech Stack:** Flutter, Node.js, MongoDB, Socket.IO, AI Integrations.
-
-**Demo Video**
-
-[![Watch Ascensus Demo](https://img.youtube.com/vi/s8N7wuBEeW8/hqdefault.jpg)](https://youtu.be/s8N7wuBEeW8)
+</div>
 
 ---
 
-## More About My Work
+<div align="center">
 
-Most of these projects are showcased through descriptions and demonstrations rather than publicly available source code. Some were developed for clients or private production environments, so their original repositories are not publicly accessible.
+### 💬 Let's Build Something Great
 
-I'm happy to discuss the engineering decisions, architecture, and implementation details behind my work.
+I'm always interested in discussing interesting engineering challenges, AI-powered products, and practical automation ideas.
 
----
+<a href="https://linkedin.com/in/farhan-bukhari-561a51259">
+<img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Thanks for visiting my profile!**
+<br/><br/>
+
+⭐ *Thanks for visiting my profile!*
+
+</div>
