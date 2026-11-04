@@ -389,23 +389,6 @@ Mobile app focused on endometriosis tracking, symptoms, cycles, and visual healt
 
 ---
 
-### 11. Everafter – Admin Portal
-
-**Role:** Full-Stack Web Developer
-
-Admin portal for parent accounts, monitoring activity, and handling claim requests through trusted-person verification.
-
-**Key Features**
-- Parent account management.
-- Activity monitoring and trend visualization.
-- Claim request management.
-- Two-person verification.
-- Administrative controls.
-
-**Tech Stack:** React, Node.js, MongoDB.
-
----
-
 ### 12. Retainr – Employee Retainment App
 
 **Role:** Full-Stack Flutter Developer
