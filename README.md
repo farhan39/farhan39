@@ -122,15 +122,16 @@ A selection of products, platforms, and automation systems I've worked on.
 | [Nova – SEO Automation Platform](#1-nova--multi-tenant-seo-automation-platform) | AI SaaS | [Watch](https://youtu.be/dWVfgCTUocU) |
 | [Ad Data ETL Pipeline](#2-multi-platform-ad-data-etl-pipeline) | Data Engineering | [Watch](https://youtu.be/6adgVi2_SE4) |
 | [Sales Command Center](#3-sales-command-center) | CRM / AI Automation | [Watch](https://youtu.be/tVmd_2NlV6I) |
-| [Shopify AI Support Copilot](#4-shopify-ai-support-copilot--chatqre) | AI / RAG | [Watch](https://youtu.be/UdCMCIQ2cmc) |
-| [Local Enterprise RAG](#5-local-enterprise-rag-system) | AI / RAG | [Watch](https://youtu.be/-0rHHK6GHSE) |
-| [Client Onboarding Automation](#6-client-onboarding--reporting-automation) | Workflow Automation | [Watch](https://youtu.be/f8LkF5D-JYY) |
-| [Retainr Admin Portals](#7-retainr--business-and-super-admin-portals) | Web Application | [Watch](https://youtu.be/HJG-_9rdNGI) |
-| [Property Evaluation Automation](#8-property-evaluation-automation) | AI Automation | [Watch](https://youtu.be/EL8AnTuPciI) |
-| [Ekvi – Women's Health App](#9-ekvi--womens-health-tracking-app) | Mobile Application | [Watch](https://youtu.be/L_zR9SpQg4g) |
-| [Everafter Admin Portal](#10-everafter--admin-portal) | Web Application | — |
-| [Retainr Employee App](#11-retainr--employee-retainment-app) | Mobile Application | [Watch](https://youtu.be/8ix5im_BvVM) |
-| [Ascensus](#12-ascensus--personal-development-app) | Mobile / AI | [Watch](https://youtu.be/s8N7wuBEeW8) |
+| [Shopify AI Support Copilot](#4-shopify-ai-support-copilot-gmail-automation--rag-assistant) | Chrome Extension / AI / RAG | [Watch](https://youtu.be/pHLVns-6gO0) |
+| [ChatQre Mobile App](#5-chatqre-mobile-app--a-chatgpt-clone) | Mobile Application / AI | [Watch](https://youtu.be/UdCMCIQ2cmc) |
+| [Local Enterprise RAG](#6-local-enterprise-rag-system) | AI / RAG | [Watch](https://youtu.be/-0rHHK6GHSE) |
+| [Client Onboarding Automation](#7-client-onboarding--reporting-automation) | Workflow Automation | [Watch](https://youtu.be/f8LkF5D-JYY) |
+| [Retainr Admin Portals](#8-retainr--business-and-super-admin-portals) | Web Application | [Watch](https://youtu.be/HJG-_9rdNGI) |
+| [Property Evaluation Automation](#9-property-evaluation-automation) | AI Automation | [Watch](https://youtu.be/EL8AnTuPciI) |
+| [Ekvi – Women's Health App](#10-ekvi--womens-health-tracking-app) | Mobile Application | [Watch](https://youtu.be/L_zR9SpQg4g) |
+| [Everafter Admin Portal](#11-everafter--admin-portal) | Web Application | — |
+| [Retainr Employee App](#12-retainr--employee-retainment-app) | Mobile Application | [Watch](https://youtu.be/8ix5im_BvVM) |
+| [Ascensus](#13-ascensus--personal-development-app) | Mobile / AI | [Watch](https://youtu.be/s8N7wuBEeW8) |
 
 ---
 
@@ -208,32 +209,62 @@ Multi-tenant CRM dashboard for local service businesses, leads, conversations, a
 
 ---
 
-### 4. Shopify AI Support Copilot / ChatQre
+### 4. Shopify AI Support Copilot (Gmail Automation + RAG Assistant)
 
 **Role:** Full-Stack Web Developer
 
-AI customer support assistant for contextual email replies using company policies, Shopify order information, and historical feedback.
+Built an AI-powered customer support assistant inside Gmail for Shopify workflows. Combines a React/TypeScript Chrome Extension (MV3) with a FastAPI backend to generate contextual replies using policy knowledge, Shopify order data, and agent feedback.
 
 **Key Features**
-- Chrome Extension Manifest V3.
-- Contextual response generation.
-- Retrieval-Augmented Generation (RAG).
-- Shopify order data integration.
-- Gmail integration.
-- JWT authentication and human-in-the-loop feedback.
-- Response regeneration and editing.
+- AI-powered customer support directly inside Gmail.
+- React and TypeScript Chrome Extension using Manifest V3.
+- Contextual reply generation using company policy knowledge and Shopify order data.
+- RAG-based retrieval using PostgreSQL and pgvector.
+- Shopify GraphQL and Gmail pipeline integrations.
+- JWT authentication.
+- Smart workflows and draft regeneration.
+- Human-in-the-loop feedback and learning.
+- Local Docker deployment with optional mock mode.
 
-**Tech Stack:** React, TypeScript, Chrome Extension MV3, Python, FastAPI, PostgreSQL, pgvector, Shopify GraphQL, Docker.
+**Tech Stack:** React, TypeScript, Chrome Extension MV3, Python, FastAPI, PostgreSQL, pgvector, Shopify GraphQL, Gmail, Docker.
 
 **Demo Video**
 
-[![Watch ChatQre Demo](https://img.youtube.com/vi/UdCMCIQ2cmc/hqdefault.jpg)](https://youtu.be/UdCMCIQ2cmc)
+[![Watch Shopify AI Support Copilot Demo](https://img.youtube.com/vi/pHLVns-6gO0/hqdefault.jpg)](https://youtu.be/pHLVns-6gO0)
 
 <br/><br/>
 
 ---
 
-### 5. Local Enterprise RAG System
+### 5. ChatQre Mobile App – A ChatGPT Clone
+
+**Role:** Full-Stack Mobile Developer
+
+Developed an AI chatbot app which replicates ChatGPT's functionalities and incorporates features like custom context retention, thread management, and conversation history. It uses Flutter for the frontend and has streaming capabilities to cope with slow responses.
+
+The backend is built with NestJS and PostgreSQL via Supabase. It uses Markdown rendering in AI responses and includes chat memory persistence. It can handle 50k+ concurrent sessions and has secure JWT token-based authentication.
+
+**Key Features**
+- ChatGPT-like AI chatbot experience.
+- Custom context retention.
+- Thread management and conversation history.
+- Streaming responses to handle slow responses.
+- Markdown rendering in AI responses.
+- Chat memory persistence.
+- JWT token-based authentication.
+- Architecture designed to handle 50k+ concurrent sessions.
+
+**Tech Stack:** Flutter, NestJS, Node.js, PostgreSQL, Supabase, JWT Authentication.
+
+**Demo Video**
+
+[![Watch ChatQre Mobile App Demo](https://img.youtube.com/vi/UdCMCIQ2cmc/hqdefault.jpg)](https://youtu.be/UdCMCIQ2cmc)
+
+<br/><br/>
+
+---
+
+### 6. Local Enterprise RAG System
 
 **Role:** Full-Stack Web Developer
 
@@ -258,7 +289,7 @@ On-prem AI document assistant allowing search and interaction with internal docu
 
 ---
 
-### 6. Client Onboarding & Reporting Automation
+### 7. Client Onboarding & Reporting Automation
 
 **Role:** Automation Engineer
 
@@ -282,7 +313,7 @@ Automated onboarding and reporting workflow connecting communication, project ma
 
 ---
 
-### 7. Retainr – Business and Super Admin Portals
+### 8. Retainr – Business and Super Admin Portals
 
 **Role:** Full-Stack Web Developer
 
@@ -313,7 +344,7 @@ Admin portals managing employees, performance, remuneration, expenses, approvals
 
 ---
 
-### 8. Property Evaluation Automation
+### 9. Property Evaluation Automation
 
 **Role:** Automation Engineer
 
@@ -335,7 +366,7 @@ AI and connected business tools streamline property processing and internal comm
 
 ---
 
-### 9. Ekvi – Women's Health Tracking App
+### 10. Ekvi – Women's Health Tracking App
 
 **Role:** Full-Stack Flutter Developer
 
@@ -358,7 +389,7 @@ Mobile app focused on endometriosis tracking, symptoms, cycles, and visual healt
 
 ---
 
-### 10. Everafter – Admin Portal
+### 11. Everafter – Admin Portal
 
 **Role:** Full-Stack Web Developer
 
@@ -375,7 +406,7 @@ Admin portal for parent accounts, monitoring activity, and handling claim reques
 
 ---
 
-### 11. Retainr – Employee Retainment App
+### 12. Retainr – Employee Retainment App
 
 **Role:** Full-Stack Flutter Developer
 
@@ -399,7 +430,7 @@ Mobile app for employee balances, bonuses, and withdrawals.
 
 ---
 
-### 12. Ascensus – Personal Development App
+### 13. Ascensus – Personal Development App
 
 **Role:** Full-Stack Mobile Developer
 
